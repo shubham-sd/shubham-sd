@@ -1,4 +1,4 @@
-
+### Hi there my name is Shubham S Dandekar. Msc(Computer Science) and an Aspiring Data Scientist.
 <!--
 **shubham-sd/shubham-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
