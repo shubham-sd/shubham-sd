@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)](https://github.com/shubham-sd)
+      [![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)](https://github.com/shubham-sd)
 <h1 align="center">Hi 👋, I'm Shubham S Dandekar</h1>
 <h3 align="center">IBM Certified Data Science and Machine Learning Aspirant</h3>
 <br>
