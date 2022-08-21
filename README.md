@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/PleasantShadowyKinglet-max-1mb.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shubham S Dandekar</h1>
 <h3 align="center">IBM Certified Data Science and Machine Learning Aspirant</h3>
 
