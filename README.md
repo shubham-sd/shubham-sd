@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhamdandeka2" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamdandeka2?logo=twitter&style=for-the-badge" alt="shubhamdandeka2" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
 
