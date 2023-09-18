@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)](https://github.com/shubham-sd)
+[![MasterHead]([https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careers360.com%2Fcourses%2Fb-tech-in-software-engineering&psig=AOvVaw1duL2367U9IPuiq2IGEIzx&ust=1695140629482000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC984rJtIEDFQAAAAAdAAAAABAJ))](https://github.com/shubham-sd)
 <h1 align="center">Hi 👋, I'm Shubham S Dandekar</h1>
 <h3 align="center">Software Engineer and IBM Certified Data Science and Machine Learning Aspirant</h3>
 <br>
