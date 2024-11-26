@@ -1,6 +1,6 @@
 [![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)](https://github.com/shubham-sd)
 <h1 align="center">Hi 👋, I'm Shubham S Dandekar</h1>
-<h3 align="center">Software Engineer and IBM Certified Data Science and Machine Learning Aspirant</h3>
+<h3 align="center">Data Engineering Aspirant</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shubhamdandeka2" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamdandeka2?logo=twitter&style=for-the-badge" alt="shubhamdandeka2" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Microsoft Azure**
 
-- 💬 Ask me about **Data Science, Machine Learning, and Python**
+- 💬 Ask me about **Data Science, Machine Learning, Django and Python**
 
 - 📫 How to reach me **shubhamdandekar20@gmail.com**
 
